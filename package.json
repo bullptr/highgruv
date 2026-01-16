@@ -1,0 +1,21 @@
+{
+  "name": "highgruv",
+  "displayName": "HighGruv",
+  "description": "High contrast Gruvbox-based theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HighGruv",
+        "uiTheme": "hc-black",
+        "path": "./themes/HighGruv-color-theme.json"
+      }
+    ]
+  }
+}
