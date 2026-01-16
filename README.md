@@ -1,16 +1,25 @@
-# highgruv README
+# HighGruv
 
-## Working with Markdown
+High contrast dark Gruvbox-based VS Code theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+| Default                              | Bordered                              |
+| ------------------------------------ | ------------------------------------- |
+| ![Sample](/images/default-theme.png) | ![Sample](/images/bordered-theme.png) |
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+- High contrast colors for better visibility.
+- Inspired by the popular Gruvbox color scheme.
+- Optimized for long coding sessions to reduce eye strain.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Contributing
 
-**Enjoy!**
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [Gruvbox in Black](https://github.com/ldkrx/gruvbox-in-black).
