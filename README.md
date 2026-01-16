@@ -2,9 +2,9 @@
 
 High contrast dark Gruvbox-based VS Code theme.
 
-| Default                              | Bordered                              |
-| ------------------------------------ | ------------------------------------- |
-| ![Sample](/images/default-theme.png) | ![Sample](/images/bordered-theme.png) |
+| Default                                                                                                | Bordered                                                                                                |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| ![Sample](https://raw.githubusercontent.com/bullptr/highgruv/refs/heads/main/images/default-theme.png) | ![Sample](https://raw.githubusercontent.com/bullptr/highgruv/refs/heads/main/images/bordered-theme.png) |
 
 ## Features
 
